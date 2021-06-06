@@ -1,4 +1,4 @@
-package com.rilixtech.test;
+package us.tuko.test;
 
 import org.junit.Test;
 

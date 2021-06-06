@@ -1,4 +1,4 @@
-package com.example.test;
+package us.tuko.test;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
